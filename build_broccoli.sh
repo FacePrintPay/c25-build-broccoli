@@ -34,3 +34,5 @@ echo "→ Repo: $ARCHIVE_DIR/symmetrical-broccoli"
 echo "→ Manifest: $ARCHIVE_DIR/manifest.sha256"
 echo "📄 Full report saved: $REPORT"
 cat "$REPORT"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=build_broccoli.sh
